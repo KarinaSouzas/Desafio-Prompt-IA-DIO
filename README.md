@@ -6,7 +6,7 @@ Desafio-Prompt-IA-DIO
 ## 💻 Sobre o Exercício
 Um bom prompt nasce de intenção clara, contexto e instruções específicas. Durante o desafio, você irá organizar suas ideias e transformá-las em comandos claros.
 
-## ⚙️ Prompt finaL:
+## ⚙️ Prompt final:
 Quero que a IA gere uma lista de hábitos saudáveis para profissionais que trabalham em escritório, 
 com o objetivo de melhorar a saúde, aumentar a disposição e reduzir o estresse. Considere o seguinte 
 contexto: rotina corrida, pouco tempo disponível durante a semana e necessidade de equilibrar trabalho, 
